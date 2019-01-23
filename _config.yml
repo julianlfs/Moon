@@ -13,7 +13,7 @@ url:                https://julianlfs.github.io/
 # Jekyll
 permalink:          /:title/
 markdown:           kramdown
-highlighter:        rouge
+highlighter:        white
 kramdown:
   auto_ids:         true
   footnote_nr:      1
